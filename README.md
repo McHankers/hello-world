@@ -1,2 +1,3 @@
 # hello-world
 Repository for the ideas... 
+2021. This is the year I become more than a UPS Store franchisee. It is my goal to learn how to code and become part of the smart economy. Let's get going slowly and be part of the conversation!
